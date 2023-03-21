@@ -1,0 +1,26 @@
+{
+  "name": "send-simple-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohan-01/Send-Simple-mail.git"
+  },
+  "keywords": [
+    "Mail"
+  ],
+  "author": "Mohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohan-01/Send-Simple-mail/issues"
+  },
+  "homepage": "https://github.com/Mohan-01/Send-Simple-mail#readme",
+  "dependencies": {
+    "node": "^19.8.1",
+    "nodemailer": "^6.9.1"
+  }
+}
