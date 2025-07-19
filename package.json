@@ -21,6 +21,6 @@
   "homepage": "https://github.com/Mohan-01/Send-Simple-mail#readme",
   "dependencies": {
     "node": "^19.8.1",
-    "nodemailer": "^6.9.1"
+    "nodemailer": "^6.9.9"
   }
 }
